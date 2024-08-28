@@ -73,7 +73,7 @@ Enter your choice- 1
 
 Choose song you wish to delete- Song_One
 
-# Song Found
+# Song found
 Song has been deleted.
 
 1. Add New Song
@@ -87,4 +87,5 @@ Song has been deleted.
 9. Sorted Playlist
 10. Add From File
 11. Exit
+
 Enter your choice- 11
